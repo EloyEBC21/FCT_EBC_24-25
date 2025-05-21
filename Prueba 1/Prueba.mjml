@@ -1,0 +1,173 @@
+<mjml>
+
+<!-- Head -->
+
+    <mj-head>
+
+        <mj-title>
+        
+            Boletín Informativo
+
+        </mj-title>
+
+        <mj-attributes>
+            
+        </mj-attributes>
+
+    </mj-head>
+
+<!-- Body -->
+
+    <mj-body>
+
+<!-- Top Bar -->
+        
+        <mj-section padding="0px">
+
+            <mj-column background-color="#fff" padding="0px">
+
+                <mj-image src="https://i.imgur.com/GTGxPJ3.jpeg"/ >
+
+            </mj-column>
+
+        </mj-section>
+            
+<!-- Little gray bar -->
+
+    <mj-section background-color="gray" padding="0">
+        
+        <mj-column>
+            
+            <mj-text color="grey">
+                
+                @alguienquesellamaeloy
+
+            </mj-text>  
+
+        </mj-column>
+
+    </mj-section>
+
+<!-- Who are us? -->
+
+        <mj-section background-color="#000">
+        
+            <mj-column>
+
+                <mj-text align="center" color="white" font-size="50px">
+                    
+                    Who are us?
+
+                </mj-text>
+
+                <mj-text font-size="12px" align="justify" color="white">
+            
+                    lLorem ipsum dolor sit amet, consectetur adipiscing elit Integer pretium, risus non consequat imperdiet, nulla lorem ultricies tortor, vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
+            
+                </mj-text>
+
+            </mj-column>
+
+        </mj-section>
+
+<!-- IMG + TXT -->
+
+        <mj-section background-color="white" padding="1px">
+            
+            <mj-column>
+
+<!-- IMG -->
+
+            <mj-image width="250px" height="250px" src="https://i.imgur.com/YVRWVQO.jpeg" alt="" />
+                
+            </mj-column>
+
+            <mj-column>
+
+                <mj-text align="justify" color="#000">
+                    
+                    <h1>NOTICIA #1</h1>
+
+                </mj-text> 
+
+                    <mj-divider border-width="5px"  border-color="#000" />
+                
+                <mj-text align="justify" color="#000">
+                    
+                    lLorem ipsum dolor sit amet, consectetur adipiscing elit., vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
+
+                </mj-text> 
+
+            </mj-column>
+
+            
+
+        </mj-section>
+
+<!-- TXT + IMG -->
+
+        <mj-section background-color="black" padding="1px">
+            
+            <mj-column>
+                
+            <mj-text align="justify" color="#FFF">
+                    
+                    <h1>NOTICIA #2</h1>
+
+                </mj-text> 
+
+                <mj-divider border-width="5px"  border-color="#FFF" />
+                
+                <mj-text align="justify" color="#FFF">
+                    
+                    lLorem ipsum dolor sit amet, consectetur adipiscing elit.. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
+
+                </mj-text> 
+
+            </mj-column>
+
+            <mj-column>
+
+                <mj-image width="250px" height="250px" src="https://i.imgur.com/YoELavj.jpeg" alt="" />
+
+            </mj-column>
+
+        </mj-section>
+
+        <!-- Little gray bar x2 -->
+
+    <mj-section background-color="gray" padding="0">
+        
+        <mj-column>
+            
+            <mj-text color="grey">
+                
+                @alguienquesellamaeloy
+
+            </mj-text>  
+
+        </mj-column>
+
+    </mj-section>
+
+        <!-- Footer -->
+
+        <mj-section background-color="white">
+
+            <mj-column>
+                
+                <mj-image src="https://i.imgur.com/GTGxPJ3.jpeg"/ >
+                
+            </mj-column>
+
+            <mj-column>
+    
+    
+    
+            </mj-column>
+
+        </mj-section>
+
+    </mj-body>
+
+</mjml>
