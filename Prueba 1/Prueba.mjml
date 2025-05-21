@@ -40,12 +40,24 @@
         
         <mj-column>
             
-            <mj-text color="grey">
+            <mj-text color="grey" font-size="1px">
                 
                 @alguienquesellamaeloy
 
             </mj-text>  
 
+        </mj-column>
+
+    </mj-section>
+
+<!-- Cartel -->
+
+    <mj-section padding="0px">
+
+        <mj-column>
+        
+            <mj-image src="https://i.imgur.com/vXFlvAp.jpeg"/>
+            
         </mj-column>
 
     </mj-section>
@@ -56,7 +68,7 @@
         
             <mj-column>
 
-                <mj-text align="center" color="white" font-size="50px">
+                <mj-text align="center" color="white" font-size="50px" padding="0px">
                     
                     Who are us?
 
@@ -80,7 +92,7 @@
 
             <mj-column width="60%">
 
-            <mj-image width="1000px" href="https://www.saloncomicvalencia.com/y-la-partida-continua-el-tour-jocrol-vuelve-este-fin-de-semana-a-la-nau/" src="https://i.imgur.com/4reI2Xo.jpeg" /></mj-image>
+            <mj-image width="1000px" height="240px" href="https://www.saloncomicvalencia.com/y-la-partida-continua-el-tour-jocrol-vuelve-este-fin-de-semana-a-la-nau/" src="https://i.imgur.com/4reI2Xo.jpeg" /></mj-image>
                 
             </mj-column>
 
@@ -133,7 +145,7 @@
 
             <mj-column width="60%">
 
-                <mj-image width="250px" height="250px" href="https://www.saloncomicvalencia.com/el-ganador-del-cosmasters-2025-del-salon-del-comic-de-valencia-kujalice-competira-en-la-final-internacional-del-cosplay-world-master-de-lisboa/" src="https://i.imgur.com/RCungOQ.jpeg" alt="" />
+                <mj-image width="1000px" href="https://www.saloncomicvalencia.com/el-ganador-del-cosmasters-2025-del-salon-del-comic-de-valencia-kujalice-competira-en-la-final-internacional-del-cosplay-world-master-de-lisboa/" src="https://i.imgur.com/RCungOQ.jpeg" alt="" />
 
             </mj-column>
 
@@ -147,7 +159,7 @@
 
             <mj-column width="60%">
 
-            <mj-image width="2500px" height="275px" href="https://www.saloncomicvalencia.com/la-zona-jocrol-del-salon-del-comic-de-valencia-regresa-a-la-comar-con-de-torrevieja/" src="https://i.imgur.com/DHBNm04.jpeg" alt="" />
+            <mj-image width="1000px" height="300px" href="https://www.saloncomicvalencia.com/la-zona-jocrol-del-salon-del-comic-de-valencia-regresa-a-la-comar-con-de-torrevieja/" src="https://i.imgur.com/DHBNm04.jpeg" alt="" />
                 
             </mj-column>
 
@@ -178,7 +190,7 @@
         
         <mj-column>
             
-            <mj-text color="grey">
+            <mj-text color="grey" font-size="1px">
                 
                 @alguienquesellamaeloy
 
