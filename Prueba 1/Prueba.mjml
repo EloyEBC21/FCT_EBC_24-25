@@ -28,7 +28,7 @@
 
             <mj-column background-color="#fff" padding="0px">
 
-                <mj-image src="https://i.imgur.com/GTGxPJ3.jpeg"/ >
+                <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/ >
 
             </mj-column>
 
@@ -78,19 +78,19 @@
 
 <!-- IMG -->
 
-            <mj-column>
+            <mj-column width="60%">
 
-            <mj-image width="250px" height="250px" src="https://i.imgur.com/YVRWVQO.jpeg" alt="" />
+            <mj-image width="1000px" href="https://www.saloncomicvalencia.com/y-la-partida-continua-el-tour-jocrol-vuelve-este-fin-de-semana-a-la-nau/" src="https://i.imgur.com/4reI2Xo.jpeg" /></mj-image>
                 
             </mj-column>
 
 <!-- TXT -->
 
-            <mj-column>
+            <mj-column width="40%">
 
-                <mj-text align="justify" color="#000">
+                <mj-text align="left" color="#000" >
                     
-                    <h1>NOTICIA #1</h1>
+                    <h1>Tour Joc & Rol vuelve este fin de semana.</h1>
 
                 </mj-text> 
 
@@ -98,7 +98,7 @@
                 
                 <mj-text align="justify" color="#000">
                     
-                    lLorem ipsum dolor sit amet, consectetur adipiscing elit., vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
+                    La experiencia Carnet Jove vuelve con el Salón del Cómic de València a revolucionar los juegos de mesa y rol con una nueva parada en las XIII Jornadas de Cómic 
 
                 </mj-text> 
 
@@ -108,15 +108,15 @@
 
 <!-- NEW# 2-->
 
-        <mj-section background-color="black" padding="1px">
+        <mj-section background-color="black" padding="1px"  >
             
 <!-- TXT -->
 
-            <mj-column>
+            <mj-column width="40%">
                 
-            <mj-text align="justify" color="#FFF">
+            <mj-text align="left" color="#FFF" >
                     
-                    <h1>NOTICIA #2</h1>
+                    <h1>El ganador del Cosmasters 2025 del Salón del Cómic de València</h1>
 
                 </mj-text> 
 
@@ -124,17 +124,16 @@
                 
                 <mj-text align="justify" color="#FFF">
                     
-                    lLorem ipsum dolor sit amet, consectetur adipiscing elit.. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
-
+                    El talento del cosplay Kujalice traspasa fronteras. El ganador del concurso Cosmasters 2025, celebrado en el marco de la celebración del Salón del Cómic de València, representará a España en...
                 </mj-text> 
 
             </mj-column>
 
-<!-- IMG + TXT -->
+<!-- IMG -->
 
-            <mj-column>
+            <mj-column width="60%">
 
-                <mj-image width="250px" height="250px" src="https://i.imgur.com/YoELavj.jpeg" alt="" />
+                <mj-image width="250px" height="250px" href="https://www.saloncomicvalencia.com/el-ganador-del-cosmasters-2025-del-salon-del-comic-de-valencia-kujalice-competira-en-la-final-internacional-del-cosplay-world-master-de-lisboa/" src="https://i.imgur.com/RCungOQ.jpeg" alt="" />
 
             </mj-column>
 
@@ -146,19 +145,19 @@
             
 <!-- IMG -->
 
-            <mj-column>
+            <mj-column width="60%">
 
-            <mj-image width="250px" height="250px" src="https://i.imgur.com/YVRWVQO.jpeg" alt="" />
+            <mj-image width="2500px" height="275px" href="https://www.saloncomicvalencia.com/la-zona-jocrol-del-salon-del-comic-de-valencia-regresa-a-la-comar-con-de-torrevieja/" src="https://i.imgur.com/DHBNm04.jpeg" alt="" />
                 
             </mj-column>
 
 <!-- TXT -->
 
-            <mj-column>
+            <mj-column width="40%">
 
-                <mj-text align="justify" color="#000">
+                <mj-text align="left" color="#000">
                     
-                    <h1>NOTICIA #3</h1>
+                    <h1>La zona Joc & Rol del Salón del Cómic de València regresa </h1>
 
                 </mj-text> 
 
@@ -166,8 +165,7 @@
                 
                 <mj-text align="justify" color="#000">
                     
-                    lLorem ipsum dolor sit amet, consectetur adipiscing elit., vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
-
+                    La zona Joc&Rol del Salón del Cómic de València continúa su itinerancia por toda la Comunitat Valenciana y regresa con fuerza a la XI ComarCon de Torrevieja, el mayor evento
                 </mj-text> 
 
             </mj-column>
@@ -213,13 +211,13 @@
 
             <mj-column>
                 
-                <mj-image src="https://i.imgur.com/6cxhDbU.png"/ width="200px">
-
+                <mj-image href="https://www.feriavalencia.com/" src="https://i.imgur.com/6cxhDbU.png"/ width="200px"></mj-image>
+                
             </mj-column>
 
             <mj-column>
 
-                    <mj-image src="https://i.imgur.com/GTGxPJ3.jpeg"/ width="200px">
+                    <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/ width="200px">
 
                 </mj-column>
 
