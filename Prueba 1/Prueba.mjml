@@ -26,9 +26,9 @@
         
         <mj-section padding="0px">
 
-            <mj-column background-color="#fff" padding="0px">
+            <mj-column background-color="#fff" padding="0px" >
 
-                <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/ >
+                <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/>
 
             </mj-column>
 
@@ -36,7 +36,7 @@
             
 <!-- Little gray bar -->
 
-    <mj-section background-color="gray" padding="0">
+    <mj-section background-color="gray" padding="0" >
         
         <mj-column>
             
@@ -64,7 +64,7 @@
 
 <!-- Who are us? -->
 
-        <mj-section background-color="#000">
+        <mj-section background-color="#000" border-radius="20px">
         
             <mj-column>
 
@@ -86,7 +86,7 @@
 
 <!-- NEW #1 -->
 
-        <mj-section background-color="white" padding="1px">
+        <mj-section background-color="white" padding="1px" border-radius="20px">
 
 <!-- IMG -->
 
@@ -120,7 +120,7 @@
 
 <!-- NEW# 2-->
 
-        <mj-section background-color="black" padding="1px"  >
+        <mj-section background-color="black" padding="1px" border-radius="20px" >
             
 <!-- TXT -->
 
@@ -153,7 +153,7 @@
 
 <!-- NEW #3 -->
 
-        <mj-section background-color="white" padding="1px">
+        <mj-section background-color="white" padding="1px" border-radius="20px">
             
 <!-- IMG -->
 
@@ -184,26 +184,9 @@
 
         </mj-section>
 
-<!-- Little gray bar x2 -->
-
-    <mj-section background-color="gray" padding="0">
-        
-        <mj-column>
-            
-            <mj-text color="grey" font-size="1px">
-                
-                @alguienquesellamaeloy
-
-            </mj-text>  
-
-        </mj-column>
-
-    </mj-section>
-
-
 <!-- Footer -->
 
-        <mj-section padding="0px" background-color="black">
+        <mj-section padding="0px" background-color="black" border-radius="20px 20px 0px 0px">
             
             <mj-column>
             
@@ -274,6 +257,7 @@
                 <mj-image src="https://i.imgur.com/u8duigX.png"/ width="50px">
 
             </mj-column>
+            
         </mj-section>
 
     </mj-body>
