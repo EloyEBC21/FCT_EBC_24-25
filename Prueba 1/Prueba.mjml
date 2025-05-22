@@ -36,7 +36,7 @@
             
 <!-- Little gray bar -->
 
-    <mj-section background-color="gray" padding="0" >
+    <mj-section background-color="gray" padding="0" border-radius="0px 0px 20px 20px">
         
         <mj-column>
             
@@ -184,9 +184,26 @@
 
         </mj-section>
 
+<!-- Little gray bar -->
+
+<mj-section background-color="gray" padding="0" border-radius="20px 20px 0px 0px">
+        
+        <mj-column>
+            
+            <mj-text color="grey" font-size="1px">
+                
+                @alguienquesellamaeloy
+
+            </mj-text>  
+
+        </mj-column>
+
+    </mj-section>
+
+
 <!-- Footer -->
 
-        <mj-section padding="0px" background-color="black" border-radius="20px 20px 0px 0px">
+        <mj-section padding="0px" background-color="black" >
             
             <mj-column>
             
