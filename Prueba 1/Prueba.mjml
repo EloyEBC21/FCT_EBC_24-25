@@ -12,7 +12,9 @@
 
         <mj-attributes>
             
-            
+            <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" />
+            <mj-all font-family="Roboto, Arial, sans-serif" />
+            <mj-text font-family="Roboto, Arial, sans-serif" />
 
         </mj-attributes>
 
@@ -126,7 +128,7 @@
 
             <mj-column width="40%">
                 
-            <mj-text align="left" color="#FFF" >
+            <mj-text align="left" color="#FFF">
                     
                     <h1>El ganador del Cosmasters 2025 del Salón del Cómic de València</h1>
 
@@ -177,7 +179,7 @@
                 
                 <mj-text align="justify" color="#000">
                     
-                    La zona Joc&Rol del Salón del Cómic de València continúa su itinerancia por toda la Comunitat Valenciana y regresa con fuerza a la XI ComarCon de Torrevieja, el mayor evento
+                    La zona Joc & Rol del Salón del Cómic de València continúa su itinerancia por toda la Comunitat Valenciana y regresa con fuerza a la XI ComarCon de Torrevieja, el mayor evento
                 </mj-text> 
 
             </mj-column>
