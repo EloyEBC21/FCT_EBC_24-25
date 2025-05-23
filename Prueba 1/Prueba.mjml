@@ -16,6 +16,34 @@
             <mj-all font-family="Roboto, Arial, sans-serif" />
             <mj-text font-family="Roboto, Arial, sans-serif" />
 
+            <mj-breakpoint width="480px" />
+            <mj-breakpoint width="768px" />
+
+            <mj-text font-size="18px" padding="16px" css-class="main-text" />
+            <mj-image padding="8px" />
+
+            <mj-style inline="inline">
+                @media only screen and (max-width:480px) {
+                    .main-text { font-size: 14px !important; padding: 8px !important; }
+                    .mj-column-per-60, .mj-column-per-40 { width: 100% !important; max-width: 100% !important; }
+                    img { max-width: 100% !important; height: auto !important; }
+                    .mj-section { padding: 4px !important; }
+                }
+                @media only screen and (min-width:481px) and (max-width:768px) {
+                    .main-text { font-size: 16px !important; padding: 12px !important; }
+                    .mj-column-per-60, .mj-column-per-40 { width: 100% !important; max-width: 100% !important; }
+                    img { max-width: 100% !important; height: auto !important; }
+                    .mj-section { padding: 8px !important; }
+                }
+                @media only screen and (min-width:769px) {
+                    .main-text { font-size: 18px !important; padding: 16px !important; }
+                    .mj-column-per-60 { width: 60% !important; max-width: 60% !important; }
+                    .mj-column-per-40 { width: 40% !important; max-width: 40% !important; }
+                    img { max-width: 1000px !important; }
+                    .mj-section { padding: 16px !important; }
+                }
+            </mj-style>
+
         </mj-attributes>
 
     </mj-head>
@@ -72,7 +100,7 @@
 
                 <mj-text align="center" color="white" font-size="50px" padding="0px">
                     
-                    Who are us?
+                    ¿Quienes somos?
 
                 </mj-text>
 
