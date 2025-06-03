@@ -1,17 +1,15 @@
 <mjml>
 
-<!-- Head -->
-
-    <mj-head>
+<mj-head>
 
         <mj-title>
-        
+
             Boletín Informativo
 
         </mj-title>
 
         <mj-attributes>
-            
+
             <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" />
             <mj-all font-family="Roboto, Arial, sans-serif" />
             <mj-text font-family="Roboto, Arial, sans-serif" />
@@ -48,225 +46,191 @@
 
     </mj-head>
 
-<!-- Body -->
+<mj-body>
 
-    <mj-body>
-
-<!-- Top Bar -->
-        
-        <mj-section padding="0px">
+<mj-section padding="0px">
 
             <mj-column background-color="#fff" padding="0px" >
 
-                <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/>
+                <mj-image href="https://www.saloncomicvalencia.com/" src="http://52.22.143.212/imagenes_mjml/FaceBook.png" alt="https://i.imgur.com/GTGxPJ3.jpeg" />
 
             </mj-column>
 
         </mj-section>
-            
-<!-- Little gray bar -->
 
-    <mj-section background-color="gray" padding="0" border-radius="0px 0px 20px 20px">
-        
+<mj-section background-color="gray" padding="0" border-radius="0px 0px 20px 20px">
+
         <mj-column>
-            
+
             <mj-text color="grey" font-size="1px">
-                
+
                 @alguienquesellamaeloy
 
-            </mj-text>  
+            </mj-text>
 
         </mj-column>
 
     </mj-section>
 
-<!-- Cartel -->
-
-    <mj-section padding="0px">
+<mj-section padding="0px">
 
         <mj-column>
-        
-            <mj-image src="https://i.imgur.com/vXFlvAp.jpeg"/>
-            
+
+            <mj-image src="http://52.22.143.212/imagenes_mjml/Cabecera_Mail_600x240px_Cartel_Comic_2025.jpg" alt="https://i.imgur.com/vXFlvAp.jpeg" />
+
         </mj-column>
 
     </mj-section>
 
-<!-- Who are us? -->
+<mj-section background-color="#000" border-radius="20px">
 
-        <mj-section background-color="#000" border-radius="20px">
-        
             <mj-column>
 
                 <mj-text align="center" color="white" font-size="50px" padding="0px">
-                    
+
                     ¿Quienes somos?
 
                 </mj-text>
 
                 <mj-text font-size="12px" align="justify" color="white">
-            
-                    lLorem ipsum dolor sit amet, consectetur adipiscing elit Integer pretium, risus non consequat imperdiet, nulla lorem ultricies tortor, vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo. 
-            
+
+                    lLorem ipsum dolor sit amet, consectetur adipiscing elit Integer pretium, risus non consequat imperdiet, nulla lorem ultricies tortor, vitae tempus diam elit nec sem. Vestibulum tincidunt neque et odio imperdiet, vitae maximus lorem lacinia. Suspendisse sit amet fringilla ligula, sit amet efficitur leo.
+
                 </mj-text>
 
             </mj-column>
 
         </mj-section>
 
-<!-- NEW #1 -->
+<mj-section background-color="white" padding="1px" border-radius="20px">
 
-        <mj-section background-color="white" padding="1px" border-radius="20px">
+<mj-column width="60%">
 
-<!-- IMG -->
+            <mj-image width="1000px" height="240px" href="https://www.saloncomicvalencia.com/y-la-partida-continua-el-tour-jocrol-vuelve-este-fin-de-semana-a-la-nau/" src="http://52.22.143.212/imagenes_mjml/JOCROL-2024-1.jpeg" alt="https://i.imgur.com/4reI2Xo.jpeg" />
 
-            <mj-column width="60%">
-
-            <mj-image width="1000px" height="240px" href="https://www.saloncomicvalencia.com/y-la-partida-continua-el-tour-jocrol-vuelve-este-fin-de-semana-a-la-nau/" src="https://i.imgur.com/4reI2Xo.jpeg" /></mj-image>
-                
             </mj-column>
 
-<!-- TXT -->
-
-            <mj-column width="40%">
+<mj-column width="40%">
 
                 <mj-text align="left" color="#000" >
-                    
+
                     <h1>Tour Joc & Rol vuelve este fin de semana.</h1>
 
-                </mj-text> 
+                </mj-text>
 
                     <mj-divider border-width="5px"  border-color="#000" />
-                
-                <mj-text align="justify" color="#000">
-                    
-                    La experiencia Carnet Jove vuelve con el Salón del Cómic de València a revolucionar los juegos de mesa y rol con una nueva parada en las XIII Jornadas de Cómic 
 
-                </mj-text> 
+                <mj-text align="justify" color="#000">
+
+                    La experiencia Carnet Jove vuelve con el Salón del Cómic de València a revolucionar los juegos de mesa y rol con una nueva parada en las XIII Jornadas de Cómic
+
+                </mj-text>
 
             </mj-column>
 
         </mj-section>
 
-<!-- NEW# 2-->
+<mj-section background-color="black" padding="1px" border-radius="20px" >
 
-        <mj-section background-color="black" padding="1px" border-radius="20px" >
-            
-<!-- TXT -->
+<mj-column width="40%">
 
-            <mj-column width="40%">
-                
             <mj-text align="left" color="#FFF">
-                    
+
                     <h1>El ganador del Cosmasters 2025 del Salón del Cómic de València</h1>
 
-                </mj-text> 
+                </mj-text>
 
                 <mj-divider border-width="5px"  border-color="#FFF" />
-                
+
                 <mj-text align="justify" color="#FFF">
-                    
+
                     El talento del cosplay Kujalice traspasa fronteras. El ganador del concurso Cosmasters 2025, celebrado en el marco de la celebración del Salón del Cómic de València, representará a España en...
-                </mj-text> 
+                </mj-text>
 
             </mj-column>
 
-<!-- IMG -->
+<mj-column width="60%">
 
-            <mj-column width="60%">
-
-                <mj-image width="1000px" href="https://www.saloncomicvalencia.com/el-ganador-del-cosmasters-2025-del-salon-del-comic-de-valencia-kujalice-competira-en-la-final-internacional-del-cosplay-world-master-de-lisboa/" src="https://i.imgur.com/RCungOQ.jpeg" alt="" />
+                <mj-image width="1000px" href="https://www.saloncomicvalencia.com/el-ganador-del-cosmasters-2025-del-salon-del-comic-de-valencia-kujalice-competira-en-la-final-internacional-del-cosplay-world-master-de-lisboa/" src="http://52.22.143.212/imagenes_mjml/KUJALICE_cwm2025.jpeg" alt="https://i.imgur.com/RCungOQ.jpeg" />
 
             </mj-column>
 
         </mj-section>
 
-<!-- NEW #3 -->
+<mj-section background-color="white" padding="1px" border-radius="20px">
 
-        <mj-section background-color="white" padding="1px" border-radius="20px">
-            
-<!-- IMG -->
+<mj-column width="60%">
 
-            <mj-column width="60%">
+            <mj-image width="1000px" height="300px" href="https://www.saloncomicvalencia.com/la-zona-jocrol-del-salon-del-comic-de-valencia-regresa-a-la-comar-con-de-torrevieja/" src="http://52.22.143.212imagenes_mjml/54210065341_5eb2d1f367_h.jpeg" alt="https://i.imgur.com/DHBNm04.jpeg" />
 
-            <mj-image width="1000px" height="300px" href="https://www.saloncomicvalencia.com/la-zona-jocrol-del-salon-del-comic-de-valencia-regresa-a-la-comar-con-de-torrevieja/" src="https://i.imgur.com/DHBNm04.jpeg" alt="" />
-                
             </mj-column>
 
-<!-- TXT -->
-
-            <mj-column width="40%">
+<mj-column width="40%">
 
                 <mj-text align="left" color="#000">
-                    
+
                     <h1>La zona Joc & Rol del Salón del Cómic de València regresa </h1>
 
-                </mj-text> 
+                </mj-text>
 
                     <mj-divider border-width="5px"  border-color="#000" />
-                
+
                 <mj-text align="justify" color="#000">
-                    
+
                     La zona Joc & Rol del Salón del Cómic de València continúa su itinerancia por toda la Comunitat Valenciana y regresa con fuerza a la XI ComarCon de Torrevieja, el mayor evento
-                </mj-text> 
+                </mj-text>
 
             </mj-column>
 
         </mj-section>
 
-<!-- Little gray bar -->
-
 <mj-section background-color="gray" padding="0" border-radius="20px 20px 0px 0px">
-        
+
         <mj-column>
-            
+
             <mj-text color="grey" font-size="1px">
-                
+
                 @alguienquesellamaeloy
 
-            </mj-text>  
+            </mj-text>
 
         </mj-column>
 
     </mj-section>
 
 
-<!-- Footer -->
+<mj-section padding="0px" background-color="black" >
 
-        <mj-section padding="0px" background-color="black" >
-            
             <mj-column>
-            
+
                 <mj-text color="white" font-size="12px" align="center">
-            
+
                     Organizan:
-            
+
                 </mj-text>
-            
+
             </mj-column>
-        
+
         </mj-section>
 
-<!-- Organizer's IMGs -->
-
-        <mj-section background-color="black" padding="0px">
+<mj-section background-color="black" padding="0px">
 
             <mj-column>
-                
-                <mj-image href="https://www.feriavalencia.com/" src="https://i.imgur.com/6cxhDbU.png"/ width="200px"></mj-image>
-                
+
+                <mj-image href="https://www.feriavalencia.com/" src="http://52.22.143.212/imagenes_mjml/cropped-Logosin-2048x844-removebg-preview.png" width="200px" alt="https://i.imgur.com/6cxhDbU.png" />
+
             </mj-column>
 
             <mj-column>
 
-                    <mj-image href="https://www.saloncomicvalencia.com/" src="https://i.imgur.com/GTGxPJ3.jpeg"/ width="200px">
+                    <mj-image href="https://www.saloncomicvalencia.com/" src="http://52.22.143.212/imagenes_mjml/cropped-Logosin-2048x844-removebg-preview.png" width="200px" alt="https://i.imgur.com/GTGxPJ3.jpeg" />
 
                 </mj-column>
 
         </mj-section>
 
         <mj-section background-color="black" padding="0px">
-            
+
             <mj-column>
 
                 <mj-text color="white" font-size="12px" align="center">
@@ -277,34 +241,32 @@
 
         </mj-section>
 
-<!-- Social's IMGs -->
-
-        <mj-section background-color="black" padding="0px">
+<mj-section background-color="black" padding="0px">
 
             <mj-column vertical-align="middle">
 
-                <mj-image src="https://i.imgur.com/zMYFLaz.png"/ width="50px">
+                <mj-image src="http://52.22.143.212/imagenes_mjml/FaceBook.png" width="50px" alt="https://i.imgur.com/zMYFLaz.png" />
 
             </mj-column>
 
             <mj-column>
 
-                <mj-image src="https://i.imgur.com/eUQGpOl.png"/ width="50px">
+                <mj-image src="http://52.22.143.212/imagenes_mjml/Instagram.png" width="50px" alt="https://i.imgur.com/eUQGpOl.png" />
 
             </mj-column>
 
             <mj-column>
 
-                <mj-image src="https://i.imgur.com/ntjDcRm.png"/ width="50px">
+                <mj-image src="http://52.22.143.212/imagenes_mjml/Twitter.png" width="50px" alt="https://i.imgur.com/ntjDcRm.png" />
 
             </mj-column>
 
             <mj-column>
 
-                <mj-image src="https://i.imgur.com/u8duigX.png"/ width="50px">
+                <mj-image src="http://52.22.143.212/imagenes_mjml/TikTok.png" width="50px" alt="https://i.imgur.com/u8duigX.png" />
 
             </mj-column>
-            
+
         </mj-section>
 
     </mj-body>
