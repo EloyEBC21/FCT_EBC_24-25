@@ -1,0 +1,330 @@
+<mjml>
+  
+  <mj-head>
+  
+    <mj-title>Discount Light</mj-title>
+  
+    <mj-attributes>
+
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" />
+        <mj-all font-family="Roboto, Arial, sans-serif" />
+        <mj-text font-family="Roboto, Arial, sans-serif" />
+        <mj-breakpoint width="480px" />
+        <mj-breakpoint width="768px" />
+        <mj-text font-size="18px" padding="16px" css-class="main-text" />
+        <mj-image padding="8px" />
+        <mj-style inline="inline">
+            @media only screen and (max-width:480px) {
+                .main-text { font-size: 14px !important; padding: 8px !important; }
+                .mj-column-per-60, .mj-column-per-40 { width: 100% !important; max-width: 100% !important; }
+                img { max-width: 100% !important; height: auto !important; }
+                .mj-section { padding: 4px !important; }
+            }
+            @media only screen and (min-width:481px) and (max-width:768px) {
+                .main-text { font-size: 16px !important; padding: 12px !important; }
+                .mj-column-per-60, .mj-column-per-40 { width: 100% !important; max-width: 100% !important; }
+                img { max-width: 100% !important; height: auto !important; }
+                .mj-section { padding: 8px !important; }
+            }
+            @media only screen and (min-width:769px) {
+                .main-text { font-size: 18px !important; padding: 16px !important; }
+                .mj-column-per-60 { width: 60% !important; max-width: 60% !important; }
+                .mj-column-per-40 { width: 40% !important; max-width: 40% !important; }
+                img { max-width: 1000px !important; }
+                .mj-section { padding: 16px !important; }
+            }
+        </mj-style>
+
+      </mj-attributes>
+    
+
+  </mj-head>
+  
+  <mj-body background-color="#E7E7E7" width="600px">
+  
+    <mj-section full-width="full-width" background-color="#FA3232" padding-bottom="0">
+  
+        <mj-column>
+
+            <mj-image src="https://i.imgur.com/1ohgeb3.jpeg" border-radius="5px 5px 0px 0px" padding="0px"/>
+  
+        </mj-column>
+
+    </mj-section>
+  
+    <mj-section background-color="#FF5F5F">
+  
+      <mj-column width="100%">
+  
+        <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png" width="600px" alt="" padding="0" href="https://google.com" />
+  
+      </mj-column>
+  
+    </mj-section>
+  
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+  
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  
+  
+        <mj-column width="100%">
+  
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+  
+            Salón de la Moto y la Bici de Valencia.
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px">
+  
+            Hola $(username),
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px">
+  
+            ¡Prepárate para la velocidad! 🏍️
+
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px">
+  
+            Sueñas con sentir la adrenalina, escuchar el rugido de los motores y vibrar con cada curva del MotoGP en directo? ¡Esta es tu oportunidad de vivirlo!
+
+        </mj-text>
+
+        <mj-text color="#637381" font-size="16px" padding-top="0px">
+
+            Estamos sorteando dos entradas dobles para el Gran Premio de la MotoGP. Podrás llevar a un acompañante y ser testigo de la pasión, la velocidad y la emoción que solo el Mundial de Motociclismo puede ofrecer.
+
+          </mj-text>
+
+          <mj-text color="#637381" font-size="16px" padding-top="5px">
+
+            <strong>¿Cómo participar? ¡Es muy sencillo!</strong>
+    
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px">
+
+            <ul>
+  
+              <li style="padding-bottom: 20px"><strong>Siguenos</strong> en las redes que dejamos al final de este correo.</li>
+  
+              <li style="padding-bottom: 20px"><strong>Menciona a un amigo</strong> con el que compartirías esta increíble experiencia en los comentarios.</li>
+  
+              <li><strong>Comparte esta publicación</strong> en tus historias o perfil.</li>
+  
+            </ul>
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px" padding-top="10px">
+  
+            El sorteo se cerrará el próximo [Fecha del sorteo, por ejemplo: 20 de junio de 2025] a las [Hora del sorteo, por ejemplo: 23:59h CEST]. Anunciaremos al ganador en [Dónde anunciarás el ganador, por ejemplo: nuestras historias o en una nueva publicación].
+  
+          </mj-text>
+  
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+  
+            Mas información.
+  
+          </mj-button>
+  
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+  
+            Salón de la Moto y la Bici.
+  
+          
+  
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+  
+        <mj-column width="50%">
+  
+          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png" alt="" />
+  
+        </mj-column>
+  
+        <mj-column width="50%">
+  
+          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png" alt="" />
+  
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+  
+        <mj-column width="100%">
+  
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+  
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+  
+        <mj-column width="100%">
+  
+          <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0">
+  
+            Venid a visitarnos!
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="16px" align="justify">
+  
+            Amantes de las dos ruedas, atención! Llega el Salón de la Bici y la Moto a Alzira. Descubre las últimas novedades, modelos exclusivos y equipamiento top para tu pasión. ¡Te esperamos para vivir la emoción sobre ruedas!
+  
+          </mj-text>
+  
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  
+        <mj-column width="50%">
+  
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+  
+            Dirección
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+  
+            Av. de les Fires, s/n, Pobles de l'Oest
+  
+            <br />
+  
+            46035 València
+  
+          </mj-text>
+  
+        </mj-column>
+  
+        <mj-column width="50%">
+  
+<!-- Esto si que no se me ocurria el como cambiarlo los "horarios" -->
+
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+  
+            Horas de operación
+  
+          </mj-text>
+  
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+  
+            Monday, December 20th: 8:00AM - 5:00PM
+  
+            <br />
+  
+            Tuesday, December 21st: 8:00AM - 5:00PM
+  
+          </mj-text>
+  
+        </mj-column>
+  
+      </mj-section>
+  
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  
+        <mj-column width="100%">
+  
+          <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg" alt="" />
+  
+        </mj-column>
+  
+      </mj-section>
+  
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width" padding="0px">
+        
+   <mj-section padding="0px" background-color="black" >
+
+            <mj-column>
+
+                <mj-text color="white" font-size="12px" align="center">
+
+                    Organizan:
+
+                </mj-text>
+
+            </mj-column>
+
+        </mj-section>
+
+<mj-section background-color="black" padding="0px">
+
+            <mj-column>
+
+                <mj-image href="https://www.feriavalencia.com/" src="https://i.imgur.com/6cxhDbU.png" width="200px" alt="https://i.imgur.com/6cxhDbU.png" />
+
+            </mj-column>
+
+            <mj-column background-color="#FFF">
+
+                    <mj-image href="https://www.saloncomicvalencia.com/" src="http://52.22.143.212/imagenes_mjml/cropped-Logosin-2048x844-removebg-preview.png" width="200px" alt="https://i.imgur.com/GTGxPJ3.jpeg" />
+
+                </mj-column>
+
+        </mj-section>
+
+        <mj-section background-color="black" padding="0px">
+
+            <mj-column>
+
+                <mj-text color="white" font-size="12px" align="center">
+                    Siguenos:
+                </mj-text>
+
+            </mj-column>
+
+        </mj-section>
+
+<mj-section background-color="black" padding="0px">
+
+            <mj-column vertical-align="middle">
+
+                <mj-image src="http://52.22.143.212/imagenes_mjml/FaceBook.png" width="50px" alt="https://i.imgur.com/zMYFLaz.png" />
+
+            </mj-column>
+
+            <mj-column>
+
+                <mj-image src="http://52.22.143.212/imagenes_mjml/Instagram.png" width="50px" alt="https://i.imgur.com/eUQGpOl.png" />
+
+            </mj-column>
+
+            <mj-column>
+
+                <mj-image src="http://52.22.143.212/imagenes_mjml/Twitter.png" width="50px" alt="https://i.imgur.com/ntjDcRm.png" />
+
+            </mj-column>
+
+            <mj-column>
+
+                <mj-image src="http://52.22.143.212/imagenes_mjml/TikTok.png" width="50px" alt="https://i.imgur.com/u8duigX.png" />
+
+            </mj-column>
+
+        </mj-section>
+
+
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+
+  </mj-body>
+
+</mjml>
